@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Ankit-portfolio-2024/static/css/main.726119fb.css",
+    "main.js": "/Ankit-portfolio-2024/static/js/main.5688f330.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Ankit-portfolio-2024/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Ankit-portfolio-2024/static/js/787.1ed0c42c.chunk.js",
+    "static/media/gamersgift_logo.png": "/Ankit-portfolio-2024/static/media/gamersgift_logo.0373d261ef4b6963e536.png",
+    "static/media/accompanied_logo.png": "/Ankit-portfolio-2024/static/media/accompanied_logo.642c51c2799b14f1b441.png",
+    "static/media/Ankit_Resume_2024.pdf": "/Ankit-portfolio-2024/static/media/Ankit_Resume_2024.910882fc929d8054d57a.pdf",
+    "static/media/kyk_logo.png": "/Ankit-portfolio-2024/static/media/kyk_logo.cbb7c34092b9a133c3c9.png",
+    "static/media/edusmart_logo.png": "/Ankit-portfolio-2024/static/media/edusmart_logo.f08ea4762cd1cfa82e23.png",
+    "static/media/skr_logo.png": "/Ankit-portfolio-2024/static/media/skr_logo.03b0934e513768de2aad.png",
+    "static/media/home-main.svg": "/Ankit-portfolio-2024/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Ankit-portfolio-2024/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/Ankit-portfolio-2024/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Ankit-portfolio-2024/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/mylogo.webp": "/Ankit-portfolio-2024/static/media/mylogo.f8ec96d8c54a27e6ec64.webp",
+    "static/media/pre.svg": "/Ankit-portfolio-2024/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Ankit-portfolio-2024/index.html",
+    "main.726119fb.css.map": "/Ankit-portfolio-2024/static/css/main.726119fb.css.map",
+    "main.5688f330.js.map": "/Ankit-portfolio-2024/static/js/main.5688f330.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Ankit-portfolio-2024/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Ankit-portfolio-2024/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.726119fb.css",
+    "static/js/main.5688f330.js"
+  ]
+}
