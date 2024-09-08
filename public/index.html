@@ -9,12 +9,25 @@
   <meta name="description" content="Web site created using create-react-app" />
   <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
   <title>Ankit | Portfolio</title>
-  <meta name="description" content="Self Developed personal website build with React.js">
+  <meta name="description" content="Self Developed personal website built with React.js">
 </head>
 
 <body>
   <noscript>You need to enable JavaScript to run this app.</noscript>
   <div id="root"></div>
+
+  <!-- Redirect script for GitHub Pages to handle client-side routing -->
+  <script type="text/javascript">
+    // GitHub Pages routing fix for React Router
+    (function() {
+      const currentLocation = window.location.pathname;
+      const redirectTo = currentLocation.split('/').filter(Boolean).slice(1).join('/');
+      if (redirectTo && redirectTo !== '/') {
+        window.history.replaceState(null, null, '/');
+        window.location.reload();
+      }
+    })();
+  </script>
 </body>
 
 </html>
